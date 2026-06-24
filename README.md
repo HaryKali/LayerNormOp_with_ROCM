@@ -124,3 +124,7 @@ python test_layernorm.py
 | `test_layernorm.py`     | 正确性测试脚本（使用官方实现作为基准）       |
 
 ---
+
+## 10. 结果预览：
+<img width="2536" height="1442" alt="2c166c4be97b2598535151d4cce3155" src="https://github.com/user-attachments/assets/d9fa3cf1-06f4-42bf-b8c1-db6fa93b9805" />
+
