@@ -1,4 +1,4 @@
-# Simple LayerNorm (ROCm HIP 实现)
+# Simple LayerNorm 
 
 本目录实现了一个基于 ROCm HIP 的自定义 LayerNorm 前向算子， 正在逐步完善当中
 
